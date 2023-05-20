@@ -12,7 +12,7 @@ This is a simple stopwatch project created using HTML, CSS, and JavaScript. It a
 
 ## Introduction
 
-The Stopwatch project provides a user-friendly interface for measuring time. It includes a digital timer display and control buttons for managing the stopwatch. With this stopwatch, you can accurately measure time intervals for various purposes such as timing activities, recording laps, or tracking performance.
+The Stopwatch project provides a user-friendly interface for measuring time. It includes a digital timer display and control buttons for managing the stopwatch. With this stopwatch, you can accurately measure time intervals for various purposes such as timing activities or tracking performance.
 
 ## Features
 
