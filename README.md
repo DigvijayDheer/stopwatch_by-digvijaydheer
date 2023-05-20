@@ -4,11 +4,11 @@ This is a simple stopwatch project created using HTML, CSS, and JavaScript. It a
 
 ## Table of Contents
 
-- <strong>Introduction</strong>
-- <strong>Features</strong>
-- <strong>Usage</strong>
-- <strong>Contributing</strong>
-- <strong>License</strong>
+- **Introduction**
+- **Features**
+- **Usage**
+- **Contributing**
+- **License**
 
 ## Introduction
 
@@ -16,10 +16,10 @@ The Stopwatch project provides a user-friendly interface for measuring time. It 
 
 ## Features
 
-- <strong>Start/Stop</strong>: Begin or pause the stopwatch to measure time.
-- <strong>Reset</strong>: Reset the stopwatch to zero.
-- <strong>Accurate Timing</strong>: The stopwatch displays time with milliseconds precision.
-- <strong>User-Friendly Interface</strong>: The interface is designed to be intuitive and visually appealing.
+- **Start/Stop**: Begin or pause the stopwatch to measure time.
+- **Reset**: Reset the stopwatch to zero.
+- **Accurate Timing**: The stopwatch displays time with milliseconds precision.
+- **User-Friendly Interface**: The interface is designed to be intuitive and visually appealing.
 
 ## Usage
 
@@ -39,6 +39,10 @@ Contributions to this stopwatch project are welcome. If you would like to make i
 4. Push your branch to your forked repository.
 5. Submit a pull request describing your changes.
 
+## Owner
+
+This project is created and maintained by [Digvijay Dheer](https://digvijaydheer.github.io/stopwatch_by-digvijaydheer/).
+
 ## License
 
-The Stopwatch project is licensed under the <strong>MIT License</strong>. You are free to use, modify, and distribute this project for personal or commercial purposes. Please see the <strong>LICENSE</strong> file for more details.
+The Stopwatch project is licensed under the **MIT License**. You are free to use, modify, and distribute this project for personal or commercial purposes. Please see the **LICENSE** file for more details.
