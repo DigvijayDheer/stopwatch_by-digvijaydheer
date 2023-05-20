@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Stopwatch By Digvijay Dheer</title>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+			integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+			crossorigin="anonymous"
+			referrerpolicy="no-referrer"
+		/>
+		<link rel="stylesheet" href="style.css" />
+		<script src="script.js" defer></script>
+	</head>
+	<body>
+		<div class="stopwatch-wrpper">
+			<div class="btn-1"></div>
+			<div class="btn-2"></div>
+			<div class="stopwatch-timer">
+				<div class="signature">
+					<p>Life is a race...</p>
+					<p>be Fast be First!</p>
+				</div>
+				<div class="timer-screen" id="timer">00 : 00 : 000</div>
+				<div class="timer-controls">
+					<button type="button" id="stop" class="control-btn">
+						<i class="fa-solid fa-pause"></i>
+					</button>
+					<button type="button" id="start" class="control-btn">
+						<i class="fa-solid fa-play"></i>
+					</button>
+					<button type="button" id="reset" class="control-btn">
+						<i class="fa-solid fa-clock-rotate-left"></i>
+					</button>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
